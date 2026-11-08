@@ -1,4 +1,4 @@
-# PTB-XL-predictive-model
+# PTB-XL-ecg-classification
 ## Final Project for UVA MSDS course DS 5110
 
 ### Team members
